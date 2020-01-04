@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-navigation": "^3.11.1",
+    "uuid": "^3.3.2"
+  }
+}
